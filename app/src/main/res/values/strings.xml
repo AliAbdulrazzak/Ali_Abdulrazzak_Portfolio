@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">Ali Abdulrazzak Portfolio</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Ali Abdulrazzak</string>
+    <string name="nav_header_subtitle">aliabdul12345@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Birthday Card</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_juice_tracker">Juice Tracker</string>
+    <string name="menu_hamburger_tracker">Hamburger Tracker</string>
+    <string name="menu_dice_roller">Dice Roller</string>
+    <string name="menu_unscramble">Unscramble</string>
+    <string name="menu_waterme">Water Me</string>
+
+    <!-- Unscramble strings -->
+    <string name="unscramble_app_name">Unscramble</string>
+    <string name="unscramble_instructions">Unscramble the word using all the letters.</string>
+    <string name="unscramble_skip">Skip</string>
+    <string name="unscramble_submit">Submit</string>
+    <string name="unscramble_score">Score: %d</string>
+    <string name="unscramble_word_count">%d/10</string>
+    <string name="unscramble_enter_your_word">Enter your word</string>
+    <string name="unscramble_congratulations">Congratulations!</string>
+    <string name="unscramble_you_scored">You scored: %d</string>
+    <string name="unscramble_exit">Exit</string>
+    <string name="unscramble_play_again">Play Again</string>
+    <string name="unscramble_new_game">Change Difficulty</string>
+    <string name="unscramble_wrong_guess">Wrong Guess!</string>
+    <string name="unscramble_hint">Hint (%d left)</string>
+    <string name="unscramble_hint_label">Hint: %s</string>
+    <string name="unscramble_select_difficulty">Select Difficulty</string>
+    <string name="unscramble_start_game">Start Game</string>
+    <string name="unscramble_time_left">Time left</string>
+
+    <!-- Juice Tracker strings -->
+    <string name="juice_type">Type of juice</string>
+    <string name="delete">Delete</string>
+    <string name="juice_name">Juice Name</string>
+    <string name="juice_description">Description</string>
+    <string name="juice_rating">Rating</string>
+    <string name="save">Save</string>
+    <string name="juice_color">Color</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="cyan">Cyan</string>
+    <string name="yellow">Yellow</string>
+    <string name="magenta">Magenta</string>
+
+    <!-- Water Me strings -->
+    <string name="waterme_app_name">Water Me</string>
+    <string name="waterme_remind_me">Remind me to water %s in…</string>
+    <string name="waterme_five_seconds">5 seconds</string>
+    <string name="waterme_one_day">1 day</string>
+    <string name="waterme_one_week">1 week</string>
+    <string name="waterme_one_month">1 month</string>
+    <string name="waterme_custom_duration">Custom…</string>
+    <string name="waterme_water">Water</string>
+    <string name="waterme_time_to_water">It\'s time to water your %s.</string>
+
+    <string name="waterme_lithop">Lithop</string>
+    <string name="waterme_carrot">Carrot</string>
+    <string name="waterme_peony">Peony</string>
+    <string name="waterme_pothos">Pothos</string>
+    <string name="waterme_fiddle_leaf_fig">Fiddle Leaf Fig</string>
+    <string name="waterme_strawberry">Strawberry</string>
+    <string name="waterme_daily">daily</string>
+    <string name="waterme_weekly">weekly</string>
+    <string name="waterme_monthly">monthly</string>
+    <string name="waterme_succulent">Succulent</string>
+    <string name="waterme_root">Root</string>
+    <string name="waterme_flower">Flower</string>
+    <string name="waterme_houseplant">Houseplant</string>
+    <string name="waterme_broadleaf_evergreen">Broadleaf evergreen</string>
+    <string name="waterme_fruit">Fruit</string>
+    <string name="waterme_custom_type">Custom</string>
+    <string name="waterme_stone_mimicking_succulent">Stone mimicking succulent</string>
+    <string name="waterme_hardy_root_vegetable">Hardy root vegetable</string>
+    <string name="waterme_spring_blooming_flower">Spring blooming flower</string>
+    <string name="waterme_indoor_vine">Indoor vine</string>
+    <string name="waterme_ornamental_fig">Ornamental fig</string>
+    <string name="waterme_delicious_multiple_fruit">Delicious multiple fruit</string>
+    <string name="waterme_user_added_plant">A plant you added</string>
+
+    <string name="waterme_sun_full">Full sun</string>
+    <string name="waterme_sun_partial">Partial sun</string>
+    <string name="waterme_sun_indirect">Indirect light</string>
+    <string name="waterme_sun_bright_indirect">Bright, indirect light</string>
+
+    <string name="waterme_soil_sandy">Sandy, fast-draining</string>
+    <string name="waterme_soil_loamy">Rich loam</string>
+    <string name="waterme_soil_rich">Rich, well-amended</string>
+    <string name="waterme_soil_potting">Standard potting mix</string>
+    <string name="waterme_soil_well_drained">Well-drained mix</string>
+    <string name="waterme_soil_default">Standard potting mix</string>
+
+    <string name="waterme_fact_lithop">Lithops camouflage as pebbles to avoid being eaten in the wild.</string>
+    <string name="waterme_fact_carrot">Carrots were originally purple — orange ones came from Dutch growers in the 17th century.</string>
+    <string name="waterme_fact_peony">Peonies can live for over 100 years and bloom every spring.</string>
+    <string name="waterme_fact_pothos">Pothos is famously hard to kill and purifies indoor air.</string>
+    <string name="waterme_fact_fiddle">Fiddle leaf figs love consistency — they sulk if you move them.</string>
+    <string name="waterme_fact_strawberry">A strawberry isn\'t a true berry — its seeds are actually tiny fruits.</string>
+    <string name="waterme_fact_default">Plants reward consistency. Keep at it!</string>
+
+    <string name="waterme_watering_streak">Streak: %d 💧</string>
+    <string name="waterme_add_plant">Add plant</string>
+
+    <string name="waterme_filter_all">All</string>
+
+    <string name="waterme_water_now">Water now</string>
+    <string name="waterme_cancel_reminder">Cancel reminder</string>
+    <string name="waterme_set_reminder">Set reminder</string>
+    <string name="waterme_care_tips">Care</string>
+    <string name="waterme_last_watered_never">Never watered</string>
+    <string name="waterme_last_watered_just_now">Watered just now</string>
+    <string name="waterme_last_watered_minutes">Watered %d min ago</string>
+    <string name="waterme_last_watered_hours">Watered %d hr ago</string>
+    <string name="waterme_last_watered_days">Watered %d days ago</string>
+    <string name="waterme_thirst_label">Thirst</string>
+
+    <string name="waterme_care_tips_for">Care for %s</string>
+    <string name="waterme_care_sunlight">Sunlight</string>
+    <string name="waterme_care_soil">Soil</string>
+    <string name="waterme_care_schedule">Schedule</string>
+    <string name="waterme_care_fact">Did you know?</string>
+    <string name="waterme_every_n_days">Every %d days</string>
+    <string name="waterme_close">Close</string>
+
+    <string name="waterme_add_custom_plant">Add a custom plant</string>
+    <string name="waterme_plant_name_label">Plant name</string>
+    <string name="waterme_interval_days_label">Water every (days)</string>
+    <string name="waterme_emoji_label">Emoji</string>
+    <string name="waterme_cancel">Cancel</string>
+    <string name="waterme_save">Save</string>
+
+    <string name="waterme_custom_reminder_title">Custom reminder</string>
+    <string name="waterme_minutes_from_now">Minutes from now</string>
+</resources>

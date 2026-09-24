@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="edu.wcupa.csc461.aliabdulrazzakportfolio.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="edu.wcupa.csc461.aliabdulrazzakportfolio.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="edu.wcupa.csc461.aliabdulrazzakportfolio.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/nav_hamburger_tracker"
+        android:name="edu.wcupa.csc461.aliabdulrazzakportfolio.hamburgertracker.HamburgerTrackerFragment"
+        android:label="@string/menu_hamburger_tracker" />
+
+    <fragment
+        android:id="@+id/nav_dice_roller"
+        android:name="edu.wcupa.csc461.aliabdulrazzakportfolio.diceroller.DiceRollerFragment"
+        android:label="@string/menu_dice_roller" />
+
+    <fragment
+        android:id="@+id/nav_unscramble"
+        android:name="edu.wcupa.csc461.aliabdulrazzakportfolio.unscramble.UnscrambleFragment"
+        android:label="@string/menu_unscramble" />
+
+    <fragment
+        android:id="@+id/nav_waterme"
+        android:name="edu.wcupa.csc461.aliabdulrazzakportfolio.waterme.WaterMeFragment"
+        android:label="@string/menu_waterme" />
+</navigation>
